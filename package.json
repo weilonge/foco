@@ -2,7 +2,7 @@
   "name": "foco",
   "version": "1.0.0",
   "description": "asynchronous flow control library for javascript",
-  "main": "index.js",
+  "main": "./lib/foco",
   "scripts": {
     "test": "gulp unit-test"
   },
